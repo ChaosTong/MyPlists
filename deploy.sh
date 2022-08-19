@@ -79,7 +79,7 @@ fi
 
 echo "🎉🎉🎉 部署成功！！！"
 echo "确保手机连上ZQun-5G的WiFi"
-echo "手机Safari浏览器打开 http://192.168.1.166/app/index.html 即可食用~"	
+echo "手机Safari浏览器打开 http://192.168.0.114/app/index.html 即可食用~"	
 
 open /Library/WebServer/Documents/app/ipa
 

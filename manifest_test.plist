@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.166/app/ipa/debug/app.ipa</string>
+					<string>http://192.168.0.114/app/ipa/debug/app.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,9 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jiuweiplayer.one</string>
+				<string>string $bundleId</string>
 				<key>bundle-version</key>
-				<string>3.4</string>
+				<string>string $version</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
